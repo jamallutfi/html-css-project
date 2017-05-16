@@ -1,0 +1,46 @@
+.new{
+    color: red;
+
+}
+.p{
+    text-align: center;
+    color:yellowgreen;
+    padding-top: 20px;
+  
+}
+body {
+    background-color:olivedrab;
+}
+   
+   
+
+   
+   .container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: right;
+  justify-content: space-around;
+}
+.main {
+  background: red;
+  width: 120px;
+  height: 120px;
+}
+.sidebar {
+  background: green;
+  width:120px;
+  height: 120px;
+}
+.mid {
+    background:white;
+  width:120px;
+  height: 120px;
+}
+   .last{
+       background-color:black;
+       text-align: left;
+       color: white;
+   }
+.second {
+    
+}
